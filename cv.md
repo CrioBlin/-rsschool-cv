@@ -11,3 +11,29 @@
 ## Summary
 
 Got **bachelor degree at Computer Science** in Uzhhorod National University 2020. Last project was finding **quality of red & white wine** by using Machine Learning algorithms. My current goal is to **get experience** in real-life projects as a front-end programmer. 
+
+## Skills
+
+### Technical Skill
+* Programming languages:
+    * HTML
+    * CSS
+    * JavaScript
+    * Python
+    * C++
+* Basic knowledge of Machine Learning
+* Administrating Windows Server 2008, 2012, 2016
+* Administrating Exchange Server 2016
+* Technical user support
+
+### Languages
+* English (A2)
+* Ukrainian (native speaker)
+* Russian (native speaker)
+
+### Soft Skills
+* Patient
+* Willingness to learn
+* Team-working
+* Open-mindedness
+* Communication skill
