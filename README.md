@@ -1,1 +1,1 @@
-# rsschool-cv
+https://crioblin.github.io/rsschool-cv/
