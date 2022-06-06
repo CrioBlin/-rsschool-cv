@@ -332,7 +332,8 @@ progress[value]::-webkit-progress-value {
 
 .footer__info {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
+  width: 100%;
 }
 
 .footer__logo {
@@ -471,6 +472,7 @@ progress[value]::-webkit-progress-value {
   }
 
   .footer__info {
+    display: flex;
     justify-content: center;
     align-items: baseline;
   }
