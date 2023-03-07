@@ -8,39 +8,25 @@
 | GitHub   | [CrioBlin](https://github.com/crioblin) |
 | Email    | [crioblin@gmail.com](crioblin@gmail.com)|
 
-## Summary
+## About Myself
 
-Got **bachelor degree at Computer Science** in Uzhhorod National University 2020. Last project was finding **quality of red & white wine** by using Machine Learning algorithms. My current goal is to **get experience** in real-life projects as a front-end programmer. 
+Got bachelor degree at Computer Science in Uzhhorod National University. Last project was finding quality of red & white wine by using Machine Learning algorithms. 
+Currently work as System Administrator.
+My goal is to get experience in real-life projects as a Front-End Developer. 
 
-## Skills
-
-### Technical Skill
+## Skills:
 * Programming languages:
-    * HTML
-    * CSS
     * JavaScript
-    * Python
     * C++
-* Basic knowledge of Machine Learning
+* Web technologies: 
+    * HTML
+    * CSS (SCSS, BEM)  
+* Git    
 * Administrating Windows Server 2008, 2012, 2016
 * Administrating Exchange Server 2016
-* Technical user support
-
-### Languages
-* English (A2)
-* Ukrainian (native speaker)
-* Russian (native speaker)
-
-### Soft Skills
-* Patient
-* Willingness to learn
-* Team-working
-* Open-mindedness
-* Communication skill
 
 ## Code example
-
-**Is a number prime? in JS**
+Function writen in JS, calculates if number is **prime** or not
 ```JS
 function isPrime(num) {
   if(num > 1) {
@@ -53,20 +39,27 @@ function isPrime(num) {
   return true;
 }
 ```
+## Experience:
+* System Administrator (2017 - ****)
+  * Install, configure and troubleshootin MS Windows Server`s
+  * Administering networks, domains, roles, and services
+  * Troubleshooting and maintenance Active Directory, DNS, DHCP
+  * Implementing, managing and monitoring Network Devices
 
-## Experience
+## Projects:
 * [webdev](https://rolling-scopes-school.github.io/crioblin-JS2020Q3/webdev/) - project from RSS2020FE
 * [Shelter](https://rolling-scopes-school.github.io/crioblin-JS2020Q3/shelter/pages/main/index.html) - project from RSS2020FE
 * [Momentum](https://rolling-scopes-school.github.io/crioblin-JS2020Q3/momentum/) - project from RSS2020FE
 * [Calculator](https://rolling-scopes-school.github.io/crioblin-JS2020Q3/calculator/) - project from RSS2020FE
 * [Virtual-Keyboard](https://rolling-scopes-school.github.io/crioblin-JS2020Q3/virtual-keybord/) - project from RSS2020FE
 
-## Education
-* **Bachelor degree at Computer Science in Uzhhorod National University**
-* [Codecademy](https://www.codecademy.com/profiles/Crio_Blin11) - courses
-* [JavaScript](https://learn.javascript.ru) - courses
-* [ML](https://www.kaggle.com/) - courses
+## Education:
+* **Bachelor, Uzhhorod National University (2015-2020)**
+  * Computer Science
+* **Specialist, Uzhgorod Institute of Trade and Economics of State University of Trade and Economics (2011-2015)**
+  * Hotel managment   
 
-## English
-My current English level is B1. 
-I had a lot of practice with english in video-games, reading book, watching tv-shows & videos.
+## Languages
+* English (Intermediate/Upper-intermediate)
+* Ukrainian (native speaker)
+* Russian (native speaker)
